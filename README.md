@@ -1,0 +1,2 @@
+# cursoemvideo-javascript
+ Exercicios praticos
